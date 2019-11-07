@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/CollinsJarrod/Pipelines/_apis/build/status/jcollins-devops.pipelines-java?branchName=master)](https://dev.azure.com/CollinsJarrod/Pipelines/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
